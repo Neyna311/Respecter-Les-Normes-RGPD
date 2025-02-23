@@ -1,0 +1,986 @@
+id_client;age;sexe;formule;date_demande;usage_vehicule;age_vehicule;type_vehicule;points_perdus;type_conduite;présence d'enfants;intrevalles _revenus;intevalles_devis;conduite _accompagne
+127724110;24;F;dev_integral;25/02/2022;Commercial;7;Sports Car;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127724117;92;F;dev_express;24/05/2022;Private;1;Minivan;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127724124;45;F;dev_express;24/01/2022;Private;4;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127724131;3;F;dev_integral;20/04/2022;Private;5;z_SUV;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724138;68;M;dev_vip;23/03/2022;Commercial;12;Panel Truck;2;Highly Urban/ Urban;Non;0-50k;600€-900€;Non
+127724145;32;F;dev_premium;23/03/2022;Private;15;z_SUV;2;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Non
+127724152;83;F;dev_express;13/03/2022;Commercial;9;Minivan;0;z_Highly Rural/ Rural;Oui;100k-150k;0€-300€;Oui
+127724159;68;M;dev_premium;09/03/2022;Private;10;z_SUV;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724166;68;M;dev_premium;29/01/2022;Private;14;Minivan;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724173;50;F;dev_integral;26/03/2022;Commercial;10;Panel Truck;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724180;57;F;dev_express;26/05/2022;Private;10;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127724187;7;M;dev_premium;27/01/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127724194;73;F;dev_express;08/05/2022;Private;18;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724201;7;M;dev_integral;02/05/2022;Commercial;6;Van;5;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127724208;78;M;dev_integral;15/04/2022;Private;1;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127724215;86;M;dev_express;11/05/2022;Private;13;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724222;51;F;dev_integral;12/04/2022;Private;15;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724229;88;F;dev_express;04/03/2022;Commercial;8;Van;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724236;69;F;dev_express;05/02/2022;Private;11;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724243;84;F;dev_integral;25/04/2022;Private;10;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724250;36;M;dev_express;20/03/2022;Private;16;Minivan;0;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Non
+127724257;92;M;dev_premium;27/03/2022;Private;16;Minivan;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127724264;24;F;dev_premium;16/05/2022;Commercial;7;Van;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724271;83;F;dev_premium;06/02/2022;Commercial;1;Sports Car;5;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127724278;19;M;dev_express;27/04/2022;Commercial;1;Pickup;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724285;67;M;dev_express;13/04/2022;Private;1;Minivan;1;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127724292;25;F;dev_integral;22/03/2022;Private;1;Sports Car;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127724299;45;F;dev_integral;22/04/2022;Private;1;z_SUV;5;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724306;55;F;dev_vip;23/03/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;600€-900€;Non
+127724313;17;F;dev_premium;12/02/2022;Private;17;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724320;50;F;dev_express;14/01/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724327;40;M;dev_integral;09/04/2022;Commercial;5;Minivan;6;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127724334;67;F;dev_express;23/03/2022;Private;9;z_SUV;3;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127724341;6;M;dev_premium;04/02/2022;Private;6;z_SUV;2;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127724348;46;M;dev_express;05/02/2022;Private;12;Sports Car;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127724355;70;F;dev_integral;08/02/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724362;62;F;dev_express;06/02/2022;Commercial;15;Sports Car;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724369;8;F;dev_integral;09/02/2022;Private;14;z_SUV;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127724376;57;F;dev_integral;26/05/2022;Private;15;Minivan;0;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127724383;36;M;dev_premium;04/03/2022;Private;11;z_SUV;1;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127724390;20;F;dev_express;31/05/2022;Private;10;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127724397;87;F;dev_express;30/04/2022;Private;8;z_SUV;5;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724404;60;M;dev_express;20/03/2022;Commercial;10;Pickup;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724411;59;F;dev_premium;02/04/2022;Private;10;Pickup;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127724418;53;M;dev_integral;02/01/2022;Private;13;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724425;67;F;dev_express;24/02/2022;Private;15;z_SUV;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724432;78;M;dev_express;05/04/2022;Private;1;z_SUV;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724439;43;F;dev_integral;21/02/2022;Commercial;13;Panel Truck;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724446;78;M;dev_integral;21/03/2022;Commercial;7;Van;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724453;40;F;dev_integral;03/04/2022;Private;1;Van;1;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Oui
+127724460;26;F;dev_integral;28/03/2022;Commercial;1;Pickup;7;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724467;50;F;dev_express;21/03/2022;Private;5;Minivan;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724474;20;M;dev_express;23/05/2022;Private;7;Minivan;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127724481;49;F;dev_express;03/05/2022;Private;19;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724488;7;F;dev_express;11/04/2022;Commercial;8;Minivan;5;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127724495;50;M;dev_premium;05/01/2022;Private;13;Van;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724502;57;F;dev_integral;14/05/2022;Commercial;9;Van;4;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724509;34;M;dev_express;20/04/2022;Private;12;z_SUV;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724516;74;F;dev_express;22/01/2022;Private;1;Van;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127724523;32;F;dev_express;26/04/2022;Private;7;Sports Car;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127724530;73;F;dev_integral;23/03/2022;Private;16;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724537;55;F;dev_express;27/04/2022;Private;8;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724544;71;F;dev_integral;24/05/2022;Commercial;5;Van;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127724551;81;F;dev_express;09/05/2022;Private;1;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724558;5;F;dev_integral;22/04/2022;Private;6;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724565;52;M;dev_express;17/05/2022;Private;1;z_SUV;5;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724572;70;M;dev_express;01/05/2022;Private;7;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724579;52;M;dev_express;29/05/2022;Private;5;Minivan;3;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127724586;73;M;dev_express;04/04/2022;Private;13;z_SUV;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724593;25;F;dev_integral;27/01/2022;Commercial;3;Pickup;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724600;4;F;dev_integral;13/01/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724607;35;M;dev_express;08/01/2022;Private;12;z_SUV;2;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127724614;10;M;dev_integral;05/04/2022;Private;9;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724621;81;F;dev_premium;14/02/2022;Private;9;Minivan;2;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Non
+127724628;80;M;dev_express;14/01/2022;Private;8;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724635;30;F;dev_integral;20/04/2022;Private;18;z_SUV;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724642;73;F;dev_express;10/05/2022;Commercial;1;Minivan;5;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724649;53;M;dev_premium;24/01/2022;Commercial;11;Panel Truck;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724656;53;F;dev_express;01/02/2022;Private;6;Minivan;4;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724663;62;M;dev_premium;20/04/2022;Private;1;Minivan;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724670;84;M;dev_express;02/01/2022;Private;3;Sports Car;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127724677;64;M;dev_express;18/02/2022;Commercial;8;Van;0;z_Highly Rural/ Rural;Non;100k-150k;0€-300€;Non
+127724684;65;F;dev_express;27/04/2022;Commercial;4;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724691;64;M;dev_express;09/05/2022;Private;4;Sports Car;1;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127724698;62;M;dev_express;14/01/2022;Commercial;8;Pickup;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724705;42;M;dev_express;30/03/2022;Private;9;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724712;54;M;dev_premium;25/01/2022;Private;17;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724719;23;F;dev_express;28/05/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127724726;50;M;dev_premium;12/02/2022;Private;13;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724733;58;M;dev_integral;11/01/2022;Private;2;Sports Car;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127724740;81;M;dev_express;15/04/2022;Commercial;1;Minivan;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724747;12;F;dev_premium;28/03/2022;Private;1;Minivan;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127724754;6;F;dev_premium;26/02/2022;Private;1;Sports Car;6;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724761;63;M;dev_express;17/01/2022;Private;1;Van;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724768;70;F;dev_integral;16/04/2022;Private;11;Pickup;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724775;52;F;dev_integral;12/01/2022;Commercial;5;Pickup;1;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127724782;62;M;dev_express;23/03/2022;Private;1;Minivan;7;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127724789;37;F;dev_integral;17/04/2022;Private;6;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127724796;43;M;dev_integral;05/05/2022;Private;8;Van;1;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127724803;19;M;dev_integral;28/02/2022;Commercial;1;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724810;67;M;dev_integral;12/02/2022;Commercial;12;Pickup;2;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127724817;24;F;dev_integral;07/01/2022;Private;1;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127724824;53;M;dev_integral;07/01/2022;Private;11;Minivan;6;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724831;11;M;dev_express;12/01/2022;Commercial;17;Panel Truck;4;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127724838;62;M;dev_premium;24/05/2022;Private;12;Minivan;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724845;25;M;dev_integral;25/03/2022;Commercial;14;Panel Truck;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724852;72;F;dev_integral;02/01/2022;Private;5;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127724859;41;M;dev_integral;01/03/2022;Commercial;12;Minivan;1;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Non
+127724866;58;F;dev_express;28/01/2022;Private;11;Minivan;5;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127724873;92;M;dev_premium;29/04/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127724880;54;M;dev_integral;20/01/2022;Commercial;9;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724887;56;M;dev_express;06/05/2022;Commercial;12;Minivan;0;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Oui
+127724894;70;M;dev_express;14/03/2022;Private;8;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724901;66;F;dev_express;20/03/2022;Commercial;6;Minivan;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127724908;57;F;dev_premium;18/01/2022;Private;14;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724915;52;F;dev_premium;23/01/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127724922;79;F;dev_express;07/01/2022;Private;11;Sports Car;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127724929;62;F;dev_integral;02/01/2022;Private;7;Pickup;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127724936;9;M;dev_integral;23/05/2022;Commercial;1;Sports Car;2;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127724943;4;M;dev_integral;29/05/2022;Private;15;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724950;71;M;dev_integral;09/02/2022;Private;13;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127724957;58;M;dev_express;17/02/2022;Private;11;Minivan;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127724964;71;M;dev_integral;06/05/2022;Private;12;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127724971;49;F;dev_integral;25/01/2022;Private;11;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127724978;30;F;dev_integral;01/01/2022;Private;9;Van;4;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127724985;34;M;dev_integral;02/04/2022;Private;8;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127724992;70;M;dev_integral;14/04/2022;Private;1;Minivan;2;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127724999;17;M;dev_express;07/03/2022;Commercial;1;Minivan;7;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127725006;22;M;dev_premium;04/04/2022;Commercial;1;Sports Car;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725013;60;M;dev_express;20/04/2022;Private;13;Minivan;1;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725020;70;F;dev_express;25/02/2022;Private;13;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725027;72;F;dev_vip;28/05/2022;Private;9;Minivan;8;Highly Urban/ Urban;Oui;0-50k;600€-900€;Non
+127725034;9;M;dev_express;18/03/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127725041;56;M;dev_express;25/02/2022;Private;5;Minivan;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725048;5;F;dev_integral;08/04/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127725055;92;F;dev_integral;01/05/2022;Private;16;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127725062;13;M;dev_integral;27/03/2022;Commercial;15;Van;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725069;37;M;dev_express;11/05/2022;Commercial;9;Van;4;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Oui
+127725076;53;M;dev_express;31/05/2022;Commercial;1;z_SUV;4;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725083;47;F;dev_premium;24/04/2022;Private;7;Sports Car;6;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127725090;52;M;dev_integral;06/03/2022;Commercial;9;Sports Car;2;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725097;53;F;dev_integral;18/02/2022;Private;9;Minivan;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725104;7;F;dev_integral;05/01/2022;Private;12;Pickup;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127725111;83;M;dev_premium;19/02/2022;Private;15;z_SUV;5;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725118;88;M;dev_express;21/05/2022;Commercial;15;z_SUV;7;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725125;52;M;dev_express;13/05/2022;Private;11;z_SUV;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725132;62;M;dev_integral;20/02/2022;Private;7;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725139;42;M;dev_integral;16/04/2022;Private;10;z_SUV;1;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127725146;73;F;dev_integral;03/03/2022;Private;19;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725153;76;F;dev_express;26/02/2022;Private;15;Minivan;0;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127725160;78;M;dev_integral;19/02/2022;Private;10;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725167;65;F;dev_express;05/03/2022;Private;5;z_SUV;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725174;61;F;dev_express;11/01/2022;Private;1;Minivan;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725181;32;M;dev_express;25/03/2022;Private;4;Minivan;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725188;76;F;dev_integral;22/02/2022;Commercial;9;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127725195;82;M;dev_integral;14/01/2022;Commercial;12;Van;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Oui
+127725202;69;F;dev_express;08/04/2022;Private;4;Sports Car;5;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725209;73;M;dev_integral;17/04/2022;Private;15;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725216;84;M;dev_integral;14/05/2022;Commercial;9;Minivan;0;z_Highly Rural/ Rural;Non;100k-150k;300€-600€;Non
+127725223;65;M;dev_integral;02/02/2022;Commercial;1;z_SUV;6;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725230;69;M;dev_integral;21/05/2022;Private;8;Sports Car;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127725237;33;M;dev_premium;09/03/2022;Private;12;z_SUV;2;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127725244;49;F;dev_integral;27/02/2022;Private;12;Minivan;1;z_Highly Rural/ Rural;Oui;150k-200k;300€-600€;Oui
+127725251;72;F;dev_integral;03/04/2022;Private;14;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127725258;55;F;dev_express;02/04/2022;Private;8;Sports Car;1;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127725265;52;F;dev_express;08/04/2022;Private;1;Minivan;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127725272;92;F;dev_integral;31/05/2022;Private;17;Sports Car;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127725279;24;F;dev_integral;16/05/2022;Commercial;4;Pickup;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725286;56;F;dev_integral;22/04/2022;Commercial;4;Panel Truck;1;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725293;73;F;dev_integral;30/05/2022;Commercial;11;z_SUV;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725300;39;M;dev_express;01/02/2022;Private;11;Pickup;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127725307;29;F;dev_integral;31/05/2022;Commercial;1;Minivan;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725314;57;M;dev_integral;16/02/2022;Commercial;11;Minivan;0;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127725321;51;F;dev_integral;21/05/2022;Private;20;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127725328;54;M;dev_express;26/04/2022;Private;1;z_SUV;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725335;76;M;dev_integral;14/01/2022;Commercial;1;Pickup;6;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725342;59;F;dev_express;16/02/2022;Commercial;12;Van;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725349;31;M;dev_express;01/01/2022;Private;16;Sports Car;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725356;64;M;dev_integral;14/01/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127725363;56;F;dev_premium;10/05/2022;Commercial;6;Van;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127725370;82;F;dev_express;02/05/2022;Commercial;6;Pickup;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725377;25;F;dev_express;10/02/2022;Commercial;6;Van;1;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127725384;54;M;dev_integral;08/01/2022;Commercial;13;Panel Truck;0;z_Highly Rural/ Rural;Non;150k-200k;300€-600€;Non
+127725391;86;F;dev_premium;12/01/2022;Private;10;Van;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127725398;68;F;dev_express;27/05/2022;Private;1;Pickup;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725405;24;M;dev_premium;10/04/2022;Commercial;5;z_SUV;6;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127725412;66;F;dev_integral;23/03/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725419;20;F;dev_integral;24/05/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127725426;71;F;dev_premium;05/01/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725433;12;F;dev_vip;17/05/2022;Private;11;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725440;49;M;dev_express;30/05/2022;Commercial;11;Van;5;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725447;6;M;dev_premium;25/01/2022;Private;1;Sports Car;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725454;68;F;dev_integral;30/01/2022;Private;7;Sports Car;0;z_Highly Rural/ Rural;Non;100k-150k;300€-600€;Non
+127725461;29;F;dev_premium;04/01/2022;Commercial;1;Panel Truck;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725468;52;F;dev_integral;11/02/2022;Private;15;z_SUV;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127725475;67;F;dev_premium;07/04/2022;Private;7;Sports Car;3;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127725482;55;F;dev_express;09/02/2022;Private;17;Minivan;4;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127725489;85;M;dev_express;27/04/2022;Commercial;13;Panel Truck;2;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725496;50;F;dev_integral;25/05/2022;Private;4;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127725503;66;F;dev_express;10/02/2022;Commercial;4;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127725510;16;M;dev_express;14/03/2022;Private;8;Sports Car;9;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725517;73;M;dev_integral;11/05/2022;Commercial;7;Pickup;4;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725524;64;M;dev_premium;09/04/2022;Commercial;1;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127725531;77;F;dev_premium;14/04/2022;Commercial;14;z_SUV;2;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127725538;83;M;dev_express;18/04/2022;Private;7;Sports Car;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725545;52;M;dev_express;23/03/2022;Commercial;1;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725552;83;M;dev_integral;09/05/2022;Commercial;1;Minivan;6;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725559;59;M;dev_express;04/02/2022;Private;12;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127725566;62;M;dev_premium;19/04/2022;Commercial;8;Panel Truck;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127725573;53;F;dev_integral;03/04/2022;Private;5;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127725580;19;F;dev_integral;18/01/2022;Private;8;Minivan;1;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Oui
+127725587;50;F;dev_express;23/03/2022;Commercial;16;Panel Truck;1;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725594;64;F;dev_integral;02/05/2022;Private;16;z_SUV;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725601;51;F;dev_express;19/01/2022;Commercial;5;Van;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725608;57;M;dev_integral;15/02/2022;Commercial;5;Van;5;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725615;65;M;dev_premium;03/01/2022;Private;13;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127725622;53;F;dev_express;27/03/2022;Private;6;Pickup;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725629;7;F;dev_premium;02/04/2022;Private;19;z_SUV;8;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725636;64;M;dev_premium;30/04/2022;Private;1;Sports Car;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725643;70;M;dev_integral;07/04/2022;Private;1;Minivan;1;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127725650;73;M;dev_integral;22/01/2022;Private;16;Sports Car;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127725657;69;M;dev_integral;07/05/2022;Commercial;18;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127725664;30;F;dev_premium;07/01/2022;Private;3;z_SUV;4;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725671;4;F;dev_integral;05/01/2022;Commercial;5;z_SUV;5;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127725678;83;F;dev_integral;13/05/2022;Commercial;1;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725685;56;M;dev_express;11/05/2022;Private;10;Minivan;4;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725692;66;F;dev_integral;29/03/2022;Private;9;z_SUV;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725699;26;M;dev_premium;12/02/2022;Private;3;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127725706;69;F;dev_premium;18/03/2022;Private;1;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725713;83;F;dev_express;25/01/2022;Private;1;Pickup;5;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725720;26;F;dev_express;11/05/2022;Private;1;z_SUV;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725727;4;M;dev_express;04/05/2022;Private;7;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127725734;32;F;dev_express;22/01/2022;Private;7;Minivan;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725741;43;F;dev_express;06/01/2022;Commercial;10;z_SUV;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725748;68;F;dev_integral;11/04/2022;Private;7;z_SUV;2;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127725755;68;M;dev_integral;22/03/2022;Private;16;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725762;37;F;dev_premium;31/03/2022;Commercial;15;Panel Truck;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127725769;67;F;dev_integral;09/03/2022;Private;15;z_SUV;0;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127725776;73;M;dev_integral;07/05/2022;Private;1;z_SUV;5;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725783;70;F;dev_integral;24/02/2022;Private;10;Minivan;3;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725790;43;F;dev_express;24/05/2022;Private;15;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725797;64;M;dev_express;25/02/2022;Commercial;7;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725804;84;F;dev_express;29/03/2022;Commercial;11;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725811;79;F;dev_express;10/05/2022;Private;12;Sports Car;6;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127725818;11;M;dev_integral;14/05/2022;Private;5;z_SUV;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127725825;86;F;dev_integral;19/01/2022;Private;12;Van;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725832;33;M;dev_premium;27/05/2022;Commercial;7;Pickup;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127725839;8;M;dev_integral;13/01/2022;Commercial;1;Van;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127725846;36;M;dev_integral;08/04/2022;Private;10;Pickup;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725853;30;F;dev_integral;26/04/2022;Private;15;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725860;17;M;dev_integral;30/01/2022;Private;20;z_SUV;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127725867;36;F;dev_express;18/05/2022;Commercial;12;z_SUV;5;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127725874;55;M;dev_premium;27/01/2022;Commercial;6;Minivan;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725881;58;F;dev_express;13/02/2022;Private;18;Van;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127725888;8;M;dev_integral;26/04/2022;Private;8;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725895;61;M;dev_premium;26/05/2022;Commercial;8;Van;2;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Non
+127725902;58;M;dev_integral;06/02/2022;Private;16;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127725909;22;F;dev_express;05/02/2022;Private;5;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127725916;86;F;dev_premium;26/03/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127725923;70;F;dev_express;14/02/2022;Commercial;10;Panel Truck;4;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127725930;9;F;dev_integral;17/04/2022;Commercial;8;Panel Truck;5;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725937;80;F;dev_express;12/02/2022;Commercial;9;Van;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127725944;9;M;dev_integral;20/03/2022;Commercial;17;Pickup;0;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127725951;14;M;dev_express;24/03/2022;Commercial;10;Van;7;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127725958;77;M;dev_integral;28/05/2022;Private;10;z_SUV;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127725965;57;M;dev_integral;27/04/2022;Private;7;z_SUV;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725972;51;M;dev_premium;28/01/2022;Private;1;z_SUV;1;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127725979;15;M;dev_express;21/03/2022;Commercial;11;Panel Truck;4;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127725986;71;F;dev_integral;07/01/2022;Private;12;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127725993;59;F;dev_premium;15/05/2022;Private;13;Minivan;4;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726000;36;F;dev_integral;09/02/2022;Commercial;12;Sports Car;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726007;69;M;dev_express;04/02/2022;Commercial;13;Pickup;3;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127726014;43;F;dev_integral;30/04/2022;Commercial;8;Van;3;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726021;23;M;dev_express;06/01/2022;Private;1;Van;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726028;50;M;dev_express;12/04/2022;Private;1;z_SUV;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127726035;85;F;dev_express;25/04/2022;Commercial;10;Panel Truck;5;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726042;35;M;dev_integral;01/01/2022;Commercial;8;Pickup;4;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127726049;58;M;dev_express;16/03/2022;Commercial;1;Pickup;5;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726056;24;M;dev_integral;20/03/2022;Commercial;20;Panel Truck;3;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726063;73;M;dev_integral;20/01/2022;Private;2;z_SUV;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726070;58;M;dev_integral;10/05/2022;Private;12;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726077;6;M;dev_premium;10/01/2022;Private;11;Sports Car;5;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726084;6;F;dev_integral;28/03/2022;Private;12;Sports Car;0;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127726091;46;F;dev_integral;13/04/2022;Private;11;Minivan;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726098;86;F;dev_integral;21/02/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726105;18;F;dev_integral;15/01/2022;Private;1;Pickup;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726112;41;F;dev_integral;25/01/2022;Commercial;10;Pickup;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127726119;72;M;dev_integral;18/01/2022;Private;7;Minivan;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726126;76;F;dev_express;15/02/2022;Commercial;17;Panel Truck;0;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127726133;59;M;dev_premium;27/01/2022;Private;14;Pickup;1;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127726140;58;M;dev_express;18/03/2022;Private;9;Pickup;4;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726147;18;M;dev_integral;22/03/2022;Private;8;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726154;3;M;dev_integral;07/03/2022;Private;8;Minivan;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726161;7;M;dev_integral;18/05/2022;Commercial;4;Van;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726168;23;F;dev_express;01/05/2022;Private;1;z_SUV;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726175;46;F;dev_integral;26/05/2022;Private;11;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127726182;13;F;dev_premium;23/04/2022;Private;11;z_SUV;6;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726189;90;F;dev_express;27/02/2022;Private;11;Minivan;1;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Oui
+127726196;68;F;dev_integral;16/04/2022;Private;10;Pickup;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726203;20;F;dev_express;21/03/2022;Commercial;21;Panel Truck;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726210;45;M;dev_integral;10/05/2022;Commercial;1;Sports Car;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127726217;3;F;dev_integral;11/04/2022;Private;10;Pickup;0;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Non
+127726224;51;F;dev_express;13/05/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127726231;70;F;dev_integral;26/05/2022;Private;1;Minivan;3;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127726238;81;F;dev_express;03/03/2022;Private;10;Pickup;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127726245;70;F;dev_express;26/01/2022;Private;12;Sports Car;0;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127726252;10;M;dev_express;22/01/2022;Commercial;20;Pickup;4;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127726259;73;F;dev_express;25/05/2022;Private;3;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726266;19;F;dev_premium;03/02/2022;Private;11;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726273;52;F;dev_express;08/01/2022;Commercial;19;Panel Truck;5;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127726280;48;F;dev_express;02/05/2022;Commercial;11;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127726287;36;M;dev_express;18/05/2022;Commercial;7;Sports Car;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726294;39;M;dev_premium;25/05/2022;Private;8;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127726301;67;M;dev_integral;04/05/2022;Private;1;Sports Car;2;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127726308;62;F;dev_integral;16/04/2022;Private;12;Pickup;2;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127726315;21;M;dev_integral;17/02/2022;Private;1;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726322;83;M;dev_premium;25/04/2022;Private;11;Minivan;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726329;12;F;dev_integral;24/03/2022;Commercial;7;Panel Truck;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726336;50;F;dev_express;24/01/2022;Private;5;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127726343;85;M;dev_integral;03/03/2022;Private;9;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127726350;62;F;dev_integral;29/01/2022;Private;14;Van;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726357;92;F;dev_integral;29/04/2022;Private;4;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127726364;74;F;dev_integral;11/01/2022;Private;6;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726371;44;F;dev_express;11/05/2022;Commercial;1;Pickup;7;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127726378;56;F;dev_express;07/05/2022;Private;1;z_SUV;6;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726385;6;M;dev_express;08/02/2022;Commercial;1;Minivan;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726392;73;F;dev_integral;01/02/2022;Private;19;Minivan;2;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726399;61;F;dev_integral;10/03/2022;Commercial;12;z_SUV;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726406;54;F;dev_integral;08/03/2022;Private;1;Minivan;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726413;61;F;dev_premium;27/05/2022;Private;9;z_SUV;1;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127726420;50;F;dev_vip;07/01/2022;Private;9;Pickup;2;Highly Urban/ Urban;Non;50k-100k;600€-900€;Non
+127726427;82;M;dev_express;14/02/2022;Private;1;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127726434;35;M;dev_express;21/02/2022;Private;4;Sports Car;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726441;53;M;dev_integral;09/04/2022;Commercial;7;Van;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127726448;65;F;dev_integral;25/03/2022;Commercial;9;Minivan;5;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127726455;47;F;dev_express;31/03/2022;Private;20;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127726462;17;M;dev_integral;02/02/2022;Private;15;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726469;50;M;dev_integral;08/05/2022;Commercial;7;Pickup;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726476;39;M;dev_integral;04/04/2022;Commercial;9;z_SUV;0;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127726483;31;F;dev_express;11/01/2022;Private;6;Sports Car;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127726490;62;M;dev_express;22/03/2022;Commercial;8;Panel Truck;4;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127726497;82;M;dev_integral;30/01/2022;Commercial;1;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127726504;35;M;dev_integral;09/05/2022;Private;1;z_SUV;7;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726511;75;M;dev_integral;11/04/2022;Commercial;5;Minivan;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726518;56;M;dev_integral;10/01/2022;Commercial;8;Van;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726525;56;M;dev_premium;26/03/2022;Private;8;z_SUV;2;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726532;23;F;dev_express;24/02/2022;Commercial;14;Panel Truck;10;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726539;21;F;dev_integral;05/03/2022;Commercial;3;Panel Truck;3;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127726546;82;F;dev_express;30/04/2022;Private;10;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726553;35;M;dev_integral;26/01/2022;Private;1;Sports Car;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127726560;87;F;dev_vip;06/01/2022;Private;10;Minivan;4;Highly Urban/ Urban;Oui;100k-150k;600€-900€;Oui
+127726567;30;M;dev_integral;09/01/2022;Private;13;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726574;68;M;dev_integral;13/01/2022;Commercial;1;z_SUV;1;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127726581;83;F;dev_integral;10/05/2022;Private;20;Sports Car;8;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127726588;80;M;dev_integral;02/03/2022;Commercial;1;Panel Truck;0;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Non
+127726595;49;F;dev_express;30/01/2022;Private;18;Minivan;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127726602;54;F;dev_integral;14/04/2022;Private;25;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726609;30;M;dev_integral;29/05/2022;Commercial;19;Panel Truck;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127726616;6;M;dev_express;24/05/2022;Private;17;Pickup;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726623;53;F;dev_integral;27/01/2022;Commercial;11;Pickup;2;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127726630;58;F;dev_express;07/05/2022;Private;13;Van;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726637;73;M;dev_premium;06/03/2022;Commercial;8;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127726644;20;M;dev_express;06/05/2022;Commercial;5;z_SUV;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726651;55;F;dev_premium;23/01/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Non
+127726658;25;M;dev_integral;21/01/2022;Commercial;1;z_SUV;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726665;63;M;dev_integral;24/05/2022;Private;1;Minivan;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127726672;41;F;dev_integral;23/04/2022;Private;8;Minivan;4;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127726679;63;F;dev_express;19/02/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127726686;69;F;dev_express;10/01/2022;Private;7;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127726693;10;M;dev_premium;26/02/2022;Private;13;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127726700;35;F;dev_express;03/01/2022;Private;10;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127726707;61;M;dev_integral;27/01/2022;Private;10;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726714;86;M;dev_integral;26/05/2022;Commercial;8;Panel Truck;2;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127726721;50;F;dev_integral;07/03/2022;Private;1;Minivan;3;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127726728;51;F;dev_express;16/04/2022;Private;1;z_SUV;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726735;45;M;dev_express;23/05/2022;Private;6;z_SUV;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726742;69;F;dev_premium;08/01/2022;Private;11;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127726749;22;M;dev_integral;29/05/2022;Private;21;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127726756;72;M;dev_integral;10/01/2022;Private;8;Minivan;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127726763;57;F;dev_integral;18/04/2022;Private;8;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127726770;12;M;dev_express;16/01/2022;Private;18;Minivan;1;Highly Urban/ Urban;Oui;150k-200k;0€-300€;Non
+127726777;78;M;dev_express;02/01/2022;Commercial;7;Van;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127726784;69;M;dev_integral;18/03/2022;Commercial;16;Van;3;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726791;75;M;dev_premium;19/01/2022;Private;14;Sports Car;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726798;12;M;dev_integral;06/05/2022;Commercial;11;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127726805;67;F;dev_express;27/04/2022;Commercial;4;z_SUV;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726812;14;M;dev_express;16/02/2022;Private;19;Minivan;4;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127726819;90;F;dev_integral;06/03/2022;Private;14;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726826;41;M;dev_express;07/01/2022;Private;5;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127726833;73;M;dev_express;23/02/2022;Private;16;Minivan;0;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127726840;43;F;dev_integral;11/04/2022;Private;12;z_SUV;0;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Oui
+127726847;39;F;dev_integral;16/03/2022;Private;15;Sports Car;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726854;44;F;dev_express;13/05/2022;Commercial;11;Minivan;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726861;49;M;dev_express;08/01/2022;Commercial;7;Panel Truck;1;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127726868;73;F;dev_express;13/03/2022;Private;3;Van;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127726875;78;M;dev_express;05/01/2022;Commercial;8;Pickup;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726882;39;F;dev_premium;17/02/2022;Commercial;8;Pickup;1;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127726889;92;M;dev_premium;14/04/2022;Private;16;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127726896;79;M;dev_express;10/02/2022;Private;10;z_SUV;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127726903;72;M;dev_integral;17/04/2022;Commercial;9;Minivan;0;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Oui
+127726910;15;F;dev_integral;15/02/2022;Commercial;1;Sports Car;7;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726917;5;M;dev_integral;07/04/2022;Commercial;5;Panel Truck;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127726924;89;M;dev_express;11/01/2022;Private;5;z_SUV;8;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127726931;65;M;dev_express;29/01/2022;Commercial;16;Panel Truck;0;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127726938;60;M;dev_express;27/01/2022;Commercial;19;Panel Truck;5;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127726945;5;F;dev_integral;09/04/2022;Private;7;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127726952;22;F;dev_integral;04/02/2022;Commercial;8;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127726959;11;M;dev_premium;13/04/2022;Private;9;Minivan;2;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127726966;40;M;dev_premium;01/03/2022;Commercial;14;Van;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726973;63;F;dev_premium;13/02/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127726980;65;M;dev_integral;27/03/2022;Commercial;1;Van;2;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127726987;50;M;dev_express;26/03/2022;Private;14;Sports Car;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127726994;82;F;dev_premium;05/04/2022;Private;14;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727001;10;F;dev_premium;23/01/2022;Private;16;z_SUV;2;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727008;77;M;dev_integral;14/02/2022;Commercial;16;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727015;56;F;dev_express;31/03/2022;Private;16;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727022;52;M;dev_integral;11/05/2022;Private;1;Pickup;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727029;39;F;dev_integral;24/03/2022;Private;1;z_SUV;7;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127727036;74;M;dev_express;29/03/2022;Private;1;Pickup;6;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727043;37;F;dev_integral;02/01/2022;Commercial;1;Panel Truck;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127727050;70;M;dev_integral;29/05/2022;Commercial;1;Pickup;5;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127727057;17;M;dev_integral;18/04/2022;Private;16;Van;11;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727064;67;M;dev_integral;17/04/2022;Private;1;Minivan;2;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727071;84;M;dev_integral;08/03/2022;Commercial;7;Minivan;6;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727078;90;F;dev_express;28/04/2022;Private;12;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727085;47;M;dev_premium;05/04/2022;Commercial;7;z_SUV;1;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127727092;59;F;dev_integral;09/04/2022;Private;1;Minivan;2;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727099;64;F;dev_express;06/05/2022;Commercial;18;Panel Truck;6;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127727106;72;F;dev_integral;29/04/2022;Private;11;z_SUV;4;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127727113;49;F;dev_express;03/01/2022;Commercial;1;z_SUV;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727120;21;M;dev_vip;09/05/2022;Commercial;4;Panel Truck;1;z_Highly Rural/ Rural;Non;50k-100k;900€+;Non
+127727127;93;F;dev_integral;22/01/2022;Commercial;17;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727134;10;F;dev_express;29/04/2022;Private;15;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727141;73;F;dev_integral;24/02/2022;Commercial;15;Panel Truck;5;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727148;58;F;dev_express;01/04/2022;Commercial;1;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727155;83;F;dev_express;12/02/2022;Commercial;13;Pickup;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727162;59;F;dev_integral;19/04/2022;Private;12;Van;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127727169;79;M;dev_premium;06/02/2022;Commercial;6;z_SUV;2;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127727176;60;F;dev_integral;07/01/2022;Private;9;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727183;30;F;dev_premium;19/03/2022;Commercial;1;Pickup;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727190;73;F;dev_integral;10/03/2022;Private;1;Pickup;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727197;50;F;dev_integral;08/05/2022;Commercial;19;Pickup;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727204;88;F;dev_express;09/03/2022;Commercial;7;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127727211;73;M;dev_express;20/04/2022;Private;15;z_SUV;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727218;81;F;dev_integral;05/04/2022;Commercial;1;Pickup;3;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727225;49;M;dev_integral;20/05/2022;Private;9;z_SUV;4;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127727232;65;M;dev_integral;03/03/2022;Private;6;z_SUV;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727239;70;F;dev_express;12/03/2022;Private;1;z_SUV;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127727246;83;F;dev_express;06/01/2022;Private;12;Sports Car;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127727253;28;M;dev_express;17/01/2022;Commercial;4;Pickup;7;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727260;92;F;dev_integral;04/03/2022;Private;8;z_SUV;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127727267;53;F;dev_premium;28/02/2022;Private;20;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727274;39;M;dev_express;22/03/2022;Commercial;4;Van;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727281;25;F;dev_express;09/05/2022;Commercial;10;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727288;36;F;dev_integral;11/03/2022;Commercial;10;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727295;52;F;dev_integral;19/02/2022;Commercial;1;Van;5;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727302;37;F;dev_premium;28/04/2022;Private;8;Sports Car;2;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127727309;28;M;dev_integral;01/03/2022;Private;1;Pickup;0;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127727316;37;M;dev_integral;17/01/2022;Private;1;Minivan;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127727323;48;M;dev_express;14/04/2022;Private;5;Sports Car;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727330;34;M;dev_express;17/02/2022;Commercial;12;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727337;59;F;dev_integral;19/04/2022;Private;11;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727344;75;M;dev_integral;18/05/2022;Commercial;5;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127727351;87;M;dev_express;13/03/2022;Commercial;12;Pickup;1;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127727358;2;F;dev_express;11/05/2022;Commercial;12;Van;0;Highly Urban/ Urban;Oui;200k+;0€-300€;Oui
+127727365;12;F;dev_premium;11/01/2022;Commercial;12;Panel Truck;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727372;20;F;dev_integral;09/05/2022;Private;6;z_SUV;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727379;57;F;dev_integral;04/01/2022;Commercial;1;Minivan;6;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127727386;55;F;dev_express;30/05/2022;Private;6;z_SUV;7;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727393;28;M;dev_express;06/03/2022;Private;9;Minivan;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727400;23;M;dev_premium;19/01/2022;Private;4;z_SUV;7;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127727407;6;F;dev_integral;20/04/2022;Private;9;Pickup;2;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127727414;57;M;dev_express;24/05/2022;Private;1;z_SUV;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727421;22;F;dev_express;26/03/2022;Private;1;z_SUV;8;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727428;77;F;dev_integral;23/03/2022;Private;8;z_SUV;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727435;29;M;dev_integral;12/04/2022;Commercial;18;Panel Truck;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127727442;30;M;dev_integral;15/04/2022;Private;11;Minivan;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127727449;69;F;dev_express;20/04/2022;Commercial;6;Pickup;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727456;71;F;dev_integral;02/05/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727463;68;F;dev_express;21/05/2022;Private;1;Van;6;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727470;25;F;dev_express;01/03/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127727477;53;F;dev_premium;10/05/2022;Private;7;Minivan;3;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127727484;72;F;dev_integral;06/03/2022;Private;10;Sports Car;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727491;4;F;dev_integral;26/05/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127727498;22;F;dev_integral;25/04/2022;Private;1;Sports Car;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127727505;61;M;dev_premium;29/05/2022;Commercial;1;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727512;9;M;dev_express;03/02/2022;Private;10;Sports Car;5;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727519;29;M;dev_express;16/05/2022;Commercial;8;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727526;59;F;dev_express;15/05/2022;Private;10;z_SUV;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127727533;74;M;dev_express;28/05/2022;Private;6;z_SUV;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127727540;76;F;dev_integral;27/03/2022;Commercial;11;Pickup;2;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127727547;50;M;dev_integral;03/02/2022;Private;1;z_SUV;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727554;9;F;dev_premium;06/05/2022;Commercial;8;Panel Truck;4;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727561;21;F;dev_premium;12/05/2022;Private;8;Minivan;3;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727568;72;F;dev_integral;15/01/2022;Commercial;13;Van;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727575;14;M;dev_integral;24/01/2022;Commercial;1;Pickup;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127727582;49;M;dev_integral;17/03/2022;Private;19;Pickup;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127727589;92;M;dev_integral;29/03/2022;Private;9;z_SUV;1;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727596;20;M;dev_express;10/05/2022;Private;9;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727603;61;F;dev_express;14/03/2022;Private;15;Minivan;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127727610;75;F;dev_premium;31/05/2022;Private;10;Pickup;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727617;7;F;dev_integral;10/05/2022;Private;7;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727624;59;F;dev_express;14/05/2022;Commercial;1;Pickup;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727631;86;F;dev_express;07/05/2022;Commercial;12;Van;2;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127727638;54;F;dev_integral;17/05/2022;Private;1;Pickup;1;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127727645;53;M;dev_integral;17/03/2022;Commercial;8;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727652;45;F;dev_premium;15/03/2022;Commercial;10;Van;3;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727659;53;F;dev_express;30/03/2022;Private;13;Minivan;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127727666;59;F;dev_express;21/01/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727673;63;M;dev_express;18/01/2022;Commercial;1;z_SUV;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727680;19;F;dev_integral;19/04/2022;Commercial;17;Minivan;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727687;58;M;dev_premium;18/05/2022;Commercial;7;Pickup;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727694;57;M;dev_express;04/04/2022;Private;21;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727701;56;M;dev_integral;25/03/2022;Private;8;Minivan;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127727708;62;F;dev_integral;23/03/2022;Commercial;1;Minivan;7;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127727715;34;F;dev_express;25/03/2022;Commercial;11;Panel Truck;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127727722;30;M;dev_integral;23/02/2022;Private;22;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727729;83;F;dev_premium;08/04/2022;Commercial;10;z_SUV;4;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727736;70;M;dev_integral;25/02/2022;Private;10;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727743;68;F;dev_integral;07/02/2022;Private;8;z_SUV;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727750;5;M;dev_integral;01/04/2022;Commercial;4;Minivan;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127727757;17;M;dev_express;25/05/2022;Private;4;Minivan;3;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127727764;81;F;dev_express;21/04/2022;Private;7;z_SUV;5;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727771;60;F;dev_premium;31/05/2022;Private;1;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727778;33;M;dev_express;19/02/2022;Commercial;1;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727785;61;F;dev_integral;23/05/2022;Private;6;z_SUV;9;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127727792;85;M;dev_integral;24/02/2022;Commercial;4;Pickup;0;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Non
+127727799;83;M;dev_express;28/05/2022;Private;4;Sports Car;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127727806;78;F;dev_express;18/05/2022;Private;9;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727813;55;M;dev_express;12/03/2022;Commercial;1;Panel Truck;4;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727820;53;M;dev_express;06/03/2022;Commercial;8;Pickup;2;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Oui
+127727827;90;M;dev_express;04/03/2022;Commercial;1;Pickup;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727834;72;M;dev_premium;10/05/2022;Commercial;13;Pickup;2;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127727841;47;M;dev_express;08/04/2022;Private;9;Pickup;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127727848;59;F;dev_express;20/01/2022;Commercial;1;z_SUV;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727855;66;F;dev_express;06/01/2022;Private;1;Minivan;2;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127727862;37;F;dev_integral;07/01/2022;Private;8;Sports Car;2;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127727869;50;F;dev_express;04/05/2022;Private;1;Pickup;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727876;6;M;dev_integral;05/05/2022;Private;15;Pickup;2;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127727883;4;F;dev_express;14/03/2022;Private;18;Sports Car;7;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127727890;89;M;dev_express;13/02/2022;Private;12;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727897;86;M;dev_integral;27/03/2022;Private;17;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127727904;56;F;dev_integral;02/02/2022;Private;1;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727911;83;F;dev_integral;22/05/2022;Commercial;14;Panel Truck;0;z_Highly Rural/ Rural;Oui;50k-100k;300€-600€;Oui
+127727918;59;M;dev_integral;03/02/2022;Private;9;Sports Car;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727925;28;M;dev_express;17/04/2022;Private;7;z_SUV;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127727932;68;F;dev_integral;30/01/2022;Private;9;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127727939;73;M;dev_integral;04/01/2022;Private;12;z_SUV;3;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127727946;29;F;dev_premium;20/02/2022;Private;11;Pickup;2;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127727953;37;M;dev_integral;22/03/2022;Private;18;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127727960;72;M;dev_integral;14/04/2022;Private;20;Sports Car;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727967;86;M;dev_integral;28/03/2022;Commercial;9;z_SUV;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727974;45;M;dev_integral;15/01/2022;Commercial;5;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127727981;92;M;dev_express;30/03/2022;Commercial;7;Pickup;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127727988;16;M;dev_express;03/04/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127727995;4;M;dev_integral;11/04/2022;Private;1;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728002;66;F;dev_integral;18/05/2022;Commercial;1;Panel Truck;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728009;89;M;dev_integral;02/04/2022;Private;1;Pickup;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728016;2;M;dev_express;09/03/2022;Private;19;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728023;18;M;dev_integral;13/04/2022;Private;10;Sports Car;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728030;35;M;dev_integral;14/03/2022;Commercial;18;Van;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728037;52;M;dev_express;12/05/2022;Private;10;Minivan;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127728044;24;F;dev_integral;01/01/2022;Private;1;Van;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127728051;25;M;dev_express;25/05/2022;Private;16;z_SUV;4;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127728058;56;F;dev_express;16/05/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728065;14;M;dev_integral;27/02/2022;Private;7;Pickup;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127728072;85;F;dev_integral;09/03/2022;Private;15;Pickup;0;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127728079;31;M;dev_express;31/05/2022;Private;13;z_SUV;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728086;62;F;dev_premium;02/03/2022;Private;14;Minivan;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127728093;21;F;dev_premium;24/04/2022;Commercial;24;Panel Truck;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728100;67;F;dev_express;21/01/2022;Commercial;10;Pickup;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728107;73;F;dev_express;07/03/2022;Private;13;z_SUV;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728114;8;F;dev_express;31/05/2022;Private;17;Pickup;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127728121;85;M;dev_integral;13/05/2022;Commercial;8;Van;4;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127728128;64;F;dev_integral;23/05/2022;Private;15;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728135;17;M;dev_express;11/05/2022;Commercial;10;Minivan;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728142;57;M;dev_integral;05/04/2022;Private;1;Minivan;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728149;46;M;dev_integral;27/05/2022;Private;1;z_SUV;8;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728156;55;M;dev_premium;20/04/2022;Private;1;Minivan;2;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127728163;50;M;dev_express;25/01/2022;Commercial;10;Panel Truck;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127728170;55;M;dev_express;08/04/2022;Private;13;Minivan;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127728177;89;M;dev_integral;18/02/2022;Private;7;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728184;38;F;dev_integral;12/01/2022;Commercial;7;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728191;88;M;dev_integral;10/01/2022;Private;1;Sports Car;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728198;92;M;dev_premium;10/05/2022;Private;5;z_SUV;1;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127728205;87;M;dev_premium;23/03/2022;Private;10;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127728212;62;M;dev_integral;19/02/2022;Private;3;z_SUV;5;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728219;37;M;dev_express;27/04/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127728226;79;F;dev_express;23/04/2022;Private;1;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728233;50;F;dev_integral;21/05/2022;Commercial;10;Panel Truck;5;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127728240;6;M;dev_express;06/01/2022;Private;10;Van;6;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127728247;4;M;dev_integral;08/04/2022;Private;14;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728254;82;F;dev_integral;25/04/2022;Private;6;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728261;85;M;dev_express;09/01/2022;Private;19;Sports Car;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728268;42;M;dev_integral;05/02/2022;Private;6;Minivan;2;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728275;89;M;dev_integral;01/03/2022;Private;14;Minivan;2;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127728282;64;M;dev_premium;14/02/2022;Private;20;Sports Car;2;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728289;30;F;dev_integral;13/02/2022;Commercial;7;Pickup;7;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127728296;57;M;dev_premium;11/03/2022;Commercial;1;Pickup;2;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127728303;59;M;dev_express;12/01/2022;Commercial;13;z_SUV;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127728310;61;F;dev_integral;10/03/2022;Private;13;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127728317;65;M;dev_express;10/05/2022;Commercial;6;Panel Truck;0;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127728324;11;F;dev_premium;11/01/2022;Commercial;1;z_SUV;3;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728331;32;M;dev_premium;05/05/2022;Private;7;Sports Car;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728338;58;F;dev_integral;21/02/2022;Private;15;Minivan;1;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728345;53;M;dev_premium;07/04/2022;Commercial;13;Van;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728352;70;M;dev_integral;07/02/2022;Commercial;7;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728359;5;F;dev_express;28/05/2022;Commercial;7;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127728366;65;M;dev_integral;03/03/2022;Private;7;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728373;24;M;dev_integral;07/02/2022;Private;16;Minivan;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127728380;37;F;dev_premium;07/01/2022;Private;15;z_SUV;0;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127728387;7;M;dev_premium;26/02/2022;Commercial;7;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728394;16;M;dev_integral;07/04/2022;Private;18;Van;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127728401;72;F;dev_express;22/03/2022;Private;21;Sports Car;4;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127728408;14;F;dev_integral;12/01/2022;Private;13;z_SUV;1;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127728415;55;M;dev_integral;10/03/2022;Private;11;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127728422;6;F;dev_integral;11/02/2022;Commercial;11;Sports Car;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728429;30;F;dev_express;17/04/2022;Private;11;Minivan;2;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127728436;70;M;dev_integral;20/05/2022;Private;5;Minivan;3;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127728443;19;F;dev_express;08/01/2022;Commercial;17;Panel Truck;0;z_Highly Rural/ Rural;Non;150k-200k;0€-300€;Non
+127728450;19;M;dev_express;14/03/2022;Private;14;Sports Car;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728457;21;M;dev_integral;23/05/2022;Private;10;Pickup;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127728464;20;M;dev_integral;09/04/2022;Commercial;11;Sports Car;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728471;18;M;dev_integral;28/04/2022;Private;18;Van;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728478;16;M;dev_premium;17/02/2022;Private;1;Pickup;3;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728485;64;F;dev_express;16/04/2022;Private;11;Minivan;2;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127728492;12;M;dev_express;14/04/2022;Private;13;Minivan;0;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127728499;38;M;dev_premium;26/04/2022;Commercial;9;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728506;46;M;dev_integral;24/04/2022;Private;1;Sports Car;4;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728513;19;M;dev_integral;03/03/2022;Private;8;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728520;4;M;dev_integral;18/03/2022;Private;15;Minivan;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127728527;93;F;dev_integral;28/04/2022;Private;8;Sports Car;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728534;17;F;dev_express;22/03/2022;Commercial;7;Van;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127728541;21;F;dev_integral;08/02/2022;Commercial;10;Pickup;4;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127728548;27;F;dev_integral;08/02/2022;Commercial;10;Panel Truck;0;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127728555;67;F;dev_integral;07/02/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127728562;73;F;dev_express;22/03/2022;Commercial;1;Pickup;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127728569;84;F;dev_premium;13/04/2022;Commercial;1;Pickup;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728576;68;M;dev_premium;16/02/2022;Private;1;Sports Car;4;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127728583;16;F;dev_integral;01/03/2022;Private;7;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728590;31;F;dev_integral;17/01/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127728597;57;M;dev_integral;21/05/2022;Private;7;Minivan;2;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127728604;48;F;dev_premium;17/04/2022;Private;17;Minivan;6;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127728611;19;F;dev_integral;13/02/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728618;73;M;dev_express;08/03/2022;Private;25;Minivan;0;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127728625;58;M;dev_integral;01/05/2022;Commercial;9;Minivan;1;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127728632;28;M;dev_integral;10/02/2022;Commercial;16;Pickup;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127728639;30;F;dev_integral;17/03/2022;Private;16;Sports Car;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728646;64;M;dev_premium;10/02/2022;Commercial;8;z_SUV;1;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728653;59;F;dev_integral;16/01/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728660;68;M;dev_integral;05/01/2022;Commercial;1;Minivan;6;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127728667;41;F;dev_vip;11/01/2022;Commercial;18;Panel Truck;0;Highly Urban/ Urban;Oui;200k+;600€-900€;Oui
+127728674;56;M;dev_integral;11/03/2022;Commercial;1;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728681;77;F;dev_integral;10/01/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728688;55;M;dev_integral;15/05/2022;Commercial;1;Van;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127728695;71;F;dev_integral;03/01/2022;Private;6;z_SUV;2;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127728702;73;F;dev_integral;22/01/2022;Private;11;Minivan;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127728709;79;F;dev_premium;03/04/2022;Commercial;4;Pickup;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728716;27;F;dev_integral;15/03/2022;Commercial;14;Pickup;4;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127728723;75;M;dev_vip;11/05/2022;Private;22;Van;2;z_Highly Rural/ Rural;Non;0-50k;900€+;Non
+127728730;53;M;dev_premium;20/02/2022;Private;16;Minivan;5;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728737;45;M;dev_integral;07/03/2022;Private;6;Sports Car;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728744;43;M;dev_integral;11/04/2022;Commercial;18;Pickup;4;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Oui
+127728751;76;M;dev_premium;21/01/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127728758;6;M;dev_integral;22/03/2022;Private;12;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728765;52;F;dev_integral;11/04/2022;Commercial;13;Minivan;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728772;10;F;dev_integral;17/01/2022;Private;1;z_SUV;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728779;23;M;dev_integral;08/04/2022;Private;15;z_SUV;4;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Oui
+127728786;21;F;dev_express;10/05/2022;Commercial;8;z_SUV;3;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127728793;38;M;dev_integral;23/02/2022;Private;1;z_SUV;1;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127728800;68;M;dev_express;02/04/2022;Private;1;Pickup;1;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Non
+127728807;45;F;dev_integral;15/02/2022;Commercial;6;Pickup;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728814;80;M;dev_express;08/01/2022;Commercial;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127728821;86;M;dev_integral;24/03/2022;Commercial;16;Pickup;4;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127728828;65;F;dev_integral;24/05/2022;Commercial;11;z_SUV;5;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127728835;33;F;dev_integral;17/01/2022;Private;15;Minivan;5;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728842;70;M;dev_integral;17/03/2022;Commercial;1;z_SUV;3;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127728849;11;F;dev_express;05/01/2022;Commercial;5;Van;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127728856;22;M;dev_premium;13/05/2022;Commercial;5;Van;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127728863;71;M;dev_express;14/01/2022;Private;8;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127728870;69;F;dev_premium;16/01/2022;Private;1;Minivan;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728877;36;F;dev_integral;13/04/2022;Commercial;6;z_SUV;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127728884;4;F;dev_express;09/03/2022;Private;11;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728891;67;M;dev_express;15/03/2022;Private;1;Minivan;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127728898;65;M;dev_integral;07/02/2022;Commercial;8;Van;2;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127728905;79;M;dev_express;08/03/2022;Commercial;3;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728912;28;F;dev_premium;07/01/2022;Commercial;5;Pickup;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127728919;47;M;dev_premium;13/04/2022;Private;15;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127728926;6;F;dev_premium;10/03/2022;Commercial;8;Pickup;4;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127728933;41;F;dev_express;02/05/2022;Private;8;z_SUV;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728940;51;F;dev_express;04/05/2022;Private;1;Pickup;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728947;7;M;dev_express;17/05/2022;Private;12;Minivan;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127728954;52;M;dev_express;25/04/2022;Private;11;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127728961;35;M;dev_express;11/05/2022;Private;10;Minivan;1;z_Highly Rural/ Rural;Non;100k-150k;0€-300€;Non
+127728968;51;M;dev_integral;05/02/2022;Private;12;z_SUV;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Non
+127728975;61;F;dev_express;03/03/2022;Private;1;Minivan;6;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127728982;60;M;dev_integral;18/05/2022;Private;5;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127728989;42;F;dev_integral;25/02/2022;Commercial;9;Minivan;0;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127728996;79;M;dev_vip;18/01/2022;Commercial;5;Panel Truck;5;Highly Urban/ Urban;Non;0-50k;600€-900€;Non
+127729003;57;F;dev_premium;08/05/2022;Private;7;Minivan;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729010;66;M;dev_express;19/02/2022;Private;5;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729017;6;F;dev_express;10/01/2022;Commercial;3;Pickup;6;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729024;71;F;dev_express;30/03/2022;Commercial;1;Minivan;1;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127729031;21;F;dev_express;07/05/2022;Private;1;Van;1;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127729038;12;F;dev_express;20/05/2022;Private;1;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729045;51;F;dev_integral;07/05/2022;Commercial;21;Van;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729052;71;M;dev_premium;04/04/2022;Commercial;1;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729059;16;F;dev_express;04/03/2022;Private;10;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729066;70;M;dev_integral;11/02/2022;Commercial;10;Panel Truck;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729073;85;F;dev_premium;31/03/2022;Commercial;7;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127729080;69;F;dev_express;26/01/2022;Private;1;Van;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127729087;81;M;dev_integral;13/02/2022;Commercial;1;Sports Car;2;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127729094;6;M;dev_premium;15/01/2022;Private;17;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729101;24;M;dev_integral;23/02/2022;Commercial;9;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729108;23;F;dev_integral;21/03/2022;Private;15;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127729115;30;M;dev_integral;29/04/2022;Private;11;Sports Car;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127729122;59;M;dev_express;07/03/2022;Private;9;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127729129;73;M;dev_express;29/05/2022;Private;5;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729136;54;M;dev_express;10/03/2022;Private;1;Minivan;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729143;61;M;dev_express;08/02/2022;Private;11;Minivan;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729150;18;F;dev_integral;11/04/2022;Commercial;11;Van;8;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729157;86;M;dev_integral;26/05/2022;Private;9;Van;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729164;3;M;dev_express;18/04/2022;Commercial;6;z_SUV;4;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127729171;3;F;dev_express;19/02/2022;Commercial;17;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729178;30;F;dev_integral;12/04/2022;Commercial;9;Sports Car;3;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729185;65;M;dev_integral;17/04/2022;Commercial;3;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127729192;68;M;dev_integral;23/03/2022;Private;7;Minivan;4;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729199;39;M;dev_integral;05/02/2022;Private;14;z_SUV;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729206;61;F;dev_premium;26/03/2022;Private;14;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729213;41;F;dev_integral;18/04/2022;Commercial;10;Van;3;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127729220;16;M;dev_integral;30/01/2022;Commercial;1;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729227;10;F;dev_express;02/02/2022;Private;1;z_SUV;6;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127729234;57;M;dev_integral;08/04/2022;Commercial;6;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127729241;65;F;dev_express;01/04/2022;Commercial;1;Panel Truck;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729248;21;M;dev_premium;07/01/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729255;61;F;dev_integral;06/05/2022;Private;14;z_SUV;3;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127729262;18;M;dev_premium;26/05/2022;Private;9;Van;2;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729269;65;M;dev_integral;09/03/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127729276;57;M;dev_integral;04/02/2022;Private;10;Van;3;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127729283;67;M;dev_express;30/03/2022;Commercial;9;Minivan;3;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Non
+127729290;54;M;dev_integral;05/01/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127729297;64;M;dev_express;13/03/2022;Commercial;8;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729304;67;M;dev_integral;13/04/2022;Commercial;12;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127729311;68;M;dev_express;03/05/2022;Private;14;Minivan;1;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127729318;29;M;dev_integral;19/03/2022;Commercial;8;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127729325;4;M;dev_integral;12/05/2022;Commercial;9;Pickup;3;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127729332;74;M;dev_express;19/04/2022;Private;3;z_SUV;4;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729339;28;F;dev_express;09/03/2022;Private;20;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729346;57;M;dev_integral;30/03/2022;Commercial;9;Panel Truck;1;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127729353;39;M;dev_integral;17/01/2022;Private;6;Pickup;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729360;53;F;dev_express;14/04/2022;Commercial;1;Pickup;7;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729367;60;M;dev_premium;07/04/2022;Private;8;Sports Car;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729374;28;F;dev_integral;26/01/2022;Private;10;Sports Car;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729381;17;M;dev_integral;26/01/2022;Private;16;Minivan;2;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127729388;42;F;dev_integral;15/03/2022;Private;11;z_SUV;2;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127729395;54;F;dev_integral;30/05/2022;Private;17;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729402;48;F;dev_premium;21/05/2022;Private;8;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729409;8;M;dev_integral;01/01/2022;Commercial;10;Pickup;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127729416;92;M;dev_express;24/02/2022;Private;15;z_SUV;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729423;27;F;dev_integral;12/01/2022;Private;10;Pickup;2;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127729430;72;M;dev_integral;14/01/2022;Private;1;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127729437;60;F;dev_integral;02/02/2022;Commercial;7;Pickup;1;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127729444;50;M;dev_integral;10/04/2022;Private;14;Minivan;2;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729451;15;M;dev_integral;28/05/2022;Private;5;z_SUV;4;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729458;36;M;dev_integral;19/05/2022;Commercial;1;Minivan;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729465;52;F;dev_integral;05/03/2022;Private;9;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729472;71;M;dev_express;04/01/2022;Commercial;16;Pickup;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729479;28;M;dev_integral;23/04/2022;Commercial;9;Van;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729486;70;M;dev_integral;19/01/2022;Private;16;z_SUV;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729493;61;M;dev_integral;14/05/2022;Commercial;19;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729500;66;M;dev_integral;22/02/2022;Commercial;4;Pickup;4;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729507;30;F;dev_integral;24/02/2022;Commercial;17;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729514;42;F;dev_integral;14/01/2022;Commercial;1;z_SUV;1;z_Highly Rural/ Rural;Oui;100k-150k;0€-300€;Non
+127729521;64;M;dev_premium;06/01/2022;Private;16;Minivan;1;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127729528;6;F;dev_integral;21/01/2022;Private;22;z_SUV;3;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127729535;46;M;dev_integral;12/04/2022;Private;12;Minivan;2;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127729542;51;M;dev_premium;05/01/2022;Private;15;Minivan;1;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127729549;64;M;dev_integral;10/01/2022;Commercial;11;Pickup;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729556;62;F;dev_premium;08/04/2022;Commercial;1;Minivan;0;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127729563;62;M;dev_integral;30/03/2022;Private;15;Pickup;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729570;78;M;dev_express;12/04/2022;Commercial;16;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729577;82;F;dev_integral;15/03/2022;Private;1;Minivan;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729584;83;F;dev_integral;12/03/2022;Private;1;z_SUV;4;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729591;65;M;dev_integral;14/03/2022;Commercial;17;Pickup;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729598;86;M;dev_integral;09/01/2022;Commercial;13;Van;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729605;56;M;dev_express;27/02/2022;Commercial;7;z_SUV;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729612;69;F;dev_premium;02/02/2022;Private;10;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127729619;70;M;dev_express;06/03/2022;Commercial;1;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729626;58;M;dev_express;06/01/2022;Private;12;Minivan;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729633;37;F;dev_integral;03/04/2022;Private;9;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729640;60;F;dev_integral;30/04/2022;Private;10;Minivan;0;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127729647;85;M;dev_integral;19/03/2022;Private;13;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729654;88;F;dev_express;24/01/2022;Private;9;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127729661;61;F;dev_integral;23/02/2022;Private;1;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729668;63;M;dev_integral;17/05/2022;Commercial;8;Sports Car;7;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729675;27;F;dev_express;06/03/2022;Private;1;Van;4;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729682;12;F;dev_integral;13/03/2022;Private;1;Pickup;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729689;5;M;dev_premium;10/02/2022;Commercial;10;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729696;66;F;dev_integral;16/01/2022;Private;16;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729703;55;M;dev_express;19/05/2022;Commercial;11;Panel Truck;6;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729710;74;M;dev_express;18/04/2022;Private;18;z_SUV;2;Highly Urban/ Urban;Oui;150k-200k;0€-300€;Non
+127729717;65;M;dev_integral;13/01/2022;Commercial;5;z_SUV;2;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127729724;51;M;dev_integral;28/05/2022;Commercial;1;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729731;46;F;dev_express;28/03/2022;Commercial;15;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729738;81;F;dev_integral;15/03/2022;Private;3;Minivan;1;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729745;61;M;dev_integral;10/03/2022;Private;7;Pickup;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729752;74;M;dev_express;20/01/2022;Private;5;z_SUV;4;z_Highly Rural/ Rural;Oui;50k-100k;0€-300€;Non
+127729759;60;F;dev_integral;09/04/2022;Private;22;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729766;30;M;dev_premium;05/03/2022;Commercial;21;Pickup;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729773;13;M;dev_premium;09/04/2022;Commercial;14;Van;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127729780;58;F;dev_integral;16/02/2022;Private;1;Pickup;5;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127729787;76;M;dev_integral;06/04/2022;Commercial;10;Minivan;6;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729794;67;F;dev_express;23/03/2022;Private;11;Van;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729801;74;F;dev_express;25/01/2022;Private;1;z_SUV;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729808;23;F;dev_express;21/01/2022;Commercial;7;z_SUV;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729815;69;M;dev_integral;27/01/2022;Private;15;Minivan;8;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127729822;77;M;dev_integral;22/04/2022;Commercial;1;z_SUV;9;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127729829;67;M;dev_express;13/03/2022;Private;17;z_SUV;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127729836;61;F;dev_premium;15/01/2022;Commercial;8;Van;4;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127729843;2;F;dev_express;24/02/2022;Private;15;Minivan;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729850;58;F;dev_integral;27/03/2022;Private;1;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729857;61;M;dev_express;02/04/2022;Commercial;10;Van;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729864;23;F;dev_integral;18/02/2022;Private;1;Minivan;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729871;78;M;dev_integral;17/04/2022;Private;7;z_SUV;2;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127729878;41;F;dev_express;20/05/2022;Commercial;7;Pickup;3;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127729885;15;F;dev_integral;29/01/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127729892;42;M;dev_express;01/05/2022;Private;7;z_SUV;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729899;17;M;dev_premium;02/05/2022;Private;1;z_SUV;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729906;63;F;dev_express;22/04/2022;Commercial;17;Van;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729913;67;M;dev_integral;24/01/2022;Private;18;z_SUV;7;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729920;17;M;dev_premium;23/02/2022;Private;9;Pickup;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127729927;63;F;dev_premium;22/05/2022;Commercial;1;Van;4;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127729934;46;F;dev_vip;17/03/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;900€+;Oui
+127729941;12;F;dev_express;04/04/2022;Commercial;10;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127729948;23;M;dev_integral;01/05/2022;Private;4;Minivan;4;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127729955;87;F;dev_integral;02/05/2022;Commercial;6;Panel Truck;4;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127729962;26;F;dev_integral;28/03/2022;Commercial;7;Pickup;0;z_Highly Rural/ Rural;Oui;100k-150k;0€-300€;Oui
+127729969;43;F;dev_integral;19/05/2022;Commercial;12;Panel Truck;1;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127729976;55;M;dev_express;14/05/2022;Private;6;Van;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127729983;82;F;dev_premium;06/05/2022;Private;13;z_SUV;0;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Non
+127729990;60;M;dev_premium;25/04/2022;Commercial;10;Pickup;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127729997;32;F;dev_premium;18/03/2022;Private;13;z_SUV;6;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730004;38;F;dev_integral;15/04/2022;Private;17;Minivan;0;Highly Urban/ Urban;Non;200k+;300€-600€;Non
+127730011;69;F;dev_premium;20/01/2022;Commercial;9;Pickup;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730018;15;F;dev_vip;14/03/2022;Commercial;9;z_SUV;4;Highly Urban/ Urban;Non;0-50k;600€-900€;Non
+127730025;91;M;dev_express;08/01/2022;Private;12;Sports Car;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730032;77;F;dev_integral;21/04/2022;Private;6;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730039;88;F;dev_premium;19/02/2022;Private;6;z_SUV;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730046;89;M;dev_integral;04/04/2022;Commercial;8;Panel Truck;2;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127730053;41;M;dev_premium;17/01/2022;Private;6;z_SUV;4;z_Highly Rural/ Rural;Oui;100k-150k;300€-600€;Oui
+127730060;42;F;dev_express;14/01/2022;Commercial;12;Panel Truck;5;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127730067;58;M;dev_integral;01/02/2022;Commercial;13;Van;4;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730074;63;F;dev_integral;03/04/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730081;63;F;dev_integral;25/02/2022;Private;15;Minivan;5;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127730088;10;M;dev_express;14/05/2022;Private;5;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127730095;44;M;dev_express;01/02/2022;Private;1;Pickup;2;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730102;8;F;dev_premium;09/02/2022;Private;16;Minivan;1;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127730109;80;M;dev_integral;13/01/2022;Private;9;Pickup;3;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127730116;51;M;dev_express;14/05/2022;Private;8;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730123;55;F;dev_premium;27/01/2022;Private;8;z_SUV;3;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730130;49;M;dev_integral;03/01/2022;Commercial;7;Van;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730137;83;M;dev_integral;26/03/2022;Commercial;7;Pickup;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730144;91;F;dev_integral;07/03/2022;Private;10;Minivan;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127730151;64;M;dev_integral;01/03/2022;Commercial;7;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730158;67;M;dev_integral;04/05/2022;Commercial;13;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730165;11;F;dev_express;04/02/2022;Commercial;12;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730172;89;M;dev_premium;26/04/2022;Commercial;9;Pickup;6;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730179;54;F;dev_integral;02/01/2022;Private;7;Minivan;1;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730186;60;M;dev_integral;26/03/2022;Private;22;Minivan;7;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730193;54;M;dev_integral;16/01/2022;Private;1;Van;3;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730200;82;F;dev_integral;26/05/2022;Private;1;Sports Car;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127730207;88;M;dev_express;24/03/2022;Commercial;1;Pickup;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730214;54;M;dev_express;20/04/2022;Private;1;Sports Car;2;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127730221;48;M;dev_integral;11/05/2022;Private;9;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730228;55;M;dev_express;13/01/2022;Commercial;10;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730235;53;F;dev_express;21/03/2022;Private;9;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730242;42;F;dev_express;18/01/2022;Private;11;Minivan;0;z_Highly Rural/ Rural;Non;100k-150k;0€-300€;Non
+127730249;67;F;dev_express;13/04/2022;Commercial;1;z_SUV;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730256;77;F;dev_express;24/04/2022;Commercial;15;Pickup;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730263;63;M;dev_premium;10/02/2022;Commercial;7;Pickup;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730270;74;F;dev_integral;28/02/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127730277;66;M;dev_express;05/02/2022;Private;8;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Non
+127730284;79;M;dev_express;27/03/2022;Private;9;Pickup;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730291;37;F;dev_express;05/01/2022;Private;7;z_SUV;2;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127730298;56;M;dev_express;03/05/2022;Private;14;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730305;26;M;dev_express;26/03/2022;Commercial;1;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730312;81;F;dev_express;31/01/2022;Commercial;15;Panel Truck;1;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730319;63;F;dev_express;30/04/2022;Private;20;Minivan;1;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127730326;2;F;dev_premium;04/02/2022;Commercial;13;Panel Truck;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127730333;81;M;dev_integral;20/01/2022;Private;9;Sports Car;4;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127730340;60;F;dev_integral;22/03/2022;Private;19;Minivan;0;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730347;73;M;dev_premium;31/05/2022;Private;13;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127730354;41;M;dev_integral;05/01/2022;Commercial;1;Sports Car;4;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730361;51;F;dev_express;23/04/2022;Private;0;Sports Car;10;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730368;32;F;dev_express;02/05/2022;Private;1;z_SUV;0;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127730375;12;F;dev_integral;11/04/2022;Commercial;10;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127730382;34;M;dev_express;04/02/2022;Private;1;z_SUV;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730389;52;F;dev_vip;22/01/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;600€-900€;Non
+127730396;41;M;dev_express;18/03/2022;Private;11;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730403;54;F;dev_integral;08/02/2022;Private;6;Pickup;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127730410;25;M;dev_express;21/02/2022;Commercial;8;z_SUV;0;z_Highly Rural/ Rural;Oui;0-50k;0€-300€;Oui
+127730417;30;F;dev_express;20/05/2022;Private;11;Pickup;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127730424;73;M;dev_express;19/02/2022;Commercial;1;Pickup;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730431;15;F;dev_premium;13/04/2022;Commercial;1;Pickup;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127730438;53;F;dev_integral;25/03/2022;Commercial;8;z_SUV;0;z_Highly Rural/ Rural;Non;50k-100k;300€-600€;Non
+127730445;25;F;dev_express;08/05/2022;Private;17;Sports Car;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730452;69;M;dev_express;08/01/2022;Commercial;8;z_SUV;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730459;82;F;dev_integral;20/02/2022;Commercial;1;Pickup;2;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127730466;44;F;dev_integral;17/02/2022;Commercial;6;Sports Car;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730473;53;M;dev_integral;24/01/2022;Private;9;Minivan;0;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127730480;77;F;dev_integral;23/05/2022;Private;14;Sports Car;4;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Oui
+127730487;69;M;dev_express;12/05/2022;Commercial;11;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730494;83;M;dev_integral;25/02/2022;Private;6;z_SUV;0;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127730501;61;F;dev_express;20/05/2022;Private;6;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127730508;73;F;dev_premium;22/02/2022;Commercial;7;Panel Truck;0;Highly Urban/ Urban;Oui;150k-200k;300€-600€;Non
+127730515;23;F;dev_express;23/02/2022;Private;6;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127730522;52;F;dev_express;02/05/2022;Commercial;7;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127730529;55;F;dev_integral;20/03/2022;Private;4;Sports Car;6;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127730536;13;M;dev_integral;23/04/2022;Commercial;10;z_SUV;4;Highly Urban/ Urban;Oui;0-50k;300€-600€;Non
+127730543;47;M;dev_premium;23/04/2022;Commercial;12;Van;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730550;51;M;dev_express;13/04/2022;Commercial;1;Panel Truck;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127730557;9;M;dev_integral;26/03/2022;Commercial;10;Pickup;2;z_Highly Rural/ Rural;Non;50k-100k;0€-300€;Non
+127730564;49;F;dev_integral;28/02/2022;Commercial;6;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730571;73;F;dev_integral;18/03/2022;Private;6;Minivan;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127730578;56;M;dev_express;17/02/2022;Commercial;1;Minivan;4;Highly Urban/ Urban;Oui;50k-100k;0€-300€;Oui
+127730585;79;M;dev_premium;23/02/2022;Commercial;10;Minivan;4;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730592;26;M;dev_integral;03/05/2022;Private;10;Minivan;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730599;66;M;dev_premium;17/01/2022;Private;12;Van;1;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730606;46;M;dev_integral;17/05/2022;Commercial;1;z_SUV;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730613;15;F;dev_premium;08/02/2022;Commercial;1;Panel Truck;3;Highly Urban/ Urban;Oui;100k-150k;300€-600€;Oui
+127730620;55;M;dev_express;06/01/2022;Private;8;z_SUV;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730627;64;F;dev_express;18/03/2022;Commercial;8;Pickup;0;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127730634;89;F;dev_express;20/04/2022;Private;8;Sports Car;4;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730641;5;F;dev_integral;05/01/2022;Private;16;z_SUV;6;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730648;16;F;dev_express;07/03/2022;Private;8;Minivan;1;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730655;33;M;dev_premium;08/04/2022;Private;10;Minivan;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730662;67;F;dev_integral;13/01/2022;Commercial;13;Panel Truck;3;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730669;51;M;dev_integral;22/01/2022;Private;19;Minivan;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127730676;84;F;dev_express;01/03/2022;Private;19;z_SUV;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Oui
+127730683;35;M;dev_integral;17/05/2022;Private;5;Sports Car;2;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127730690;77;M;dev_integral;27/02/2022;Private;19;Minivan;2;Highly Urban/ Urban;Non;200k+;300€-600€;Non
+127730697;3;M;dev_express;14/01/2022;Private;8;z_SUV;2;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730704;39;M;dev_vip;12/04/2022;Private;11;z_SUV;4;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Oui
+127730711;60;F;dev_integral;03/04/2022;Private;12;z_SUV;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730718;69;M;dev_premium;15/02/2022;Commercial;7;Pickup;0;Highly Urban/ Urban;Oui;0-50k;300€-600€;Oui
+127730725;52;F;dev_express;21/04/2022;Commercial;15;Panel Truck;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730732;17;M;dev_premium;13/04/2022;Private;1;Sports Car;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127730739;62;M;dev_premium;11/02/2022;Commercial;8;Minivan;2;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730746;65;F;dev_premium;13/02/2022;Commercial;1;Pickup;6;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730753;71;M;dev_premium;16/05/2022;Private;15;z_SUV;1;Highly Urban/ Urban;Non;100k-150k;300€-600€;Non
+127730760;56;F;dev_integral;18/03/2022;Private;20;Minivan;0;Highly Urban/ Urban;Oui;150k-200k;300€-600€;Oui
+127730767;68;F;dev_express;18/01/2022;Private;20;Minivan;5;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730774;15;F;dev_express;23/05/2022;Commercial;12;Panel Truck;1;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127730781;71;M;dev_express;16/03/2022;Private;16;z_SUV;0;Highly Urban/ Urban;Non;150k-200k;0€-300€;Non
+127730788;17;M;dev_integral;04/04/2022;Private;16;Sports Car;0;Highly Urban/ Urban;Non;150k-200k;300€-600€;Non
+127730795;47;M;dev_integral;31/03/2022;Private;1;Sports Car;0;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730802;49;F;dev_express;28/02/2022;Private;22;Minivan;1;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730809;59;M;dev_premium;16/04/2022;Private;1;Minivan;0;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127730816;46;F;dev_premium;12/02/2022;Private;15;z_SUV;4;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730823;50;M;dev_express;29/01/2022;Private;13;z_SUV;0;z_Highly Rural/ Rural;Non;0-50k;0€-300€;Non
+127730830;52;F;dev_express;30/04/2022;Private;1;z_SUV;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730837;74;F;dev_integral;25/02/2022;Commercial;18;Van;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730844;15;M;dev_express;30/04/2022;Private;1;Pickup;3;Highly Urban/ Urban;Oui;0-50k;0€-300€;Non
+127730851;80;F;dev_express;25/02/2022;Private;17;Minivan;2;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730858;54;F;dev_integral;06/05/2022;Private;1;Minivan;1;z_Highly Rural/ Rural;Non;0-50k;300€-600€;Non
+127730865;38;F;dev_integral;06/04/2022;Private;7;Minivan;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730872;66;F;dev_integral;06/03/2022;Private;13;Minivan;5;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730879;91;M;dev_express;04/03/2022;Private;16;Minivan;0;Highly Urban/ Urban;Non;200k+;0€-300€;Non
+127730886;70;F;dev_express;06/05/2022;Private;10;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730893;14;F;dev_integral;01/02/2022;Private;21;Pickup;3;Highly Urban/ Urban;Oui;50k-100k;300€-600€;Non
+127730900;62;M;dev_express;16/03/2022;Commercial;23;Panel Truck;1;Highly Urban/ Urban;Oui;100k-150k;0€-300€;Non
+127730907;57;F;dev_premium;13/03/2022;Commercial;8;Panel Truck;2;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730914;3;M;dev_integral;16/04/2022;Commercial;1;Pickup;0;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730921;40;M;dev_express;05/03/2022;Commercial;1;Panel Truck;3;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730928;39;F;dev_premium;01/05/2022;Commercial;1;Pickup;0;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127730935;14;M;dev_integral;19/01/2022;Commercial;9;Sports Car;5;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730942;9;F;dev_integral;23/01/2022;Private;11;Pickup;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730949;58;F;dev_integral;15/03/2022;Private;1;Minivan;0;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730956;11;F;dev_integral;14/01/2022;Commercial;1;Sports Car;0;Highly Urban/ Urban;Non;0-50k;300€-600€;Non
+127730963;80;M;dev_express;22/01/2022;Private;1;Sports Car;3;Highly Urban/ Urban;Non;0-50k;0€-300€;Non
+127730970;62;F;dev_integral;03/03/2022;Private;15;Sports Car;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
+127730977;28;M;dev_integral;01/04/2022;Private;8;z_SUV;1;z_Highly Rural/ Rural;Oui;0-50k;300€-600€;Non
+127730984;68;M;dev_integral;06/04/2022;Commercial;1;Van;2;Highly Urban/ Urban;Non;50k-100k;300€-600€;Non
+127730991;68;M;dev_express;16/05/2022;Commercial;16;Pickup;0;Highly Urban/ Urban;Non;100k-150k;0€-300€;Non
+127730998;16;M;dev_express;15/02/2022;Private;11;z_SUV;0;Highly Urban/ Urban;Non;50k-100k;0€-300€;Non
